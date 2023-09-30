@@ -1,5 +1,8 @@
+import { JSX } from 'react';
+import { Text } from '@chakra-ui/react';
+
 const Index = (): JSX.Element => {
-  return <p>Hello</p>;
+  return <Text>Hello</Text>;
 };
 
 export default Index;
