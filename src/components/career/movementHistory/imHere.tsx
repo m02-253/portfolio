@@ -8,7 +8,7 @@ type Props = {
 
 export const ImHere = (props: Props): JSX.Element => {
   // 定数
-  const animationDurationSec = 1.5;
+  const animationDurationSec = 0.5;
   const pointSize = 10;
   const rippleSpreadTo = 30;
 
